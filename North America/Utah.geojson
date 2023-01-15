@@ -1,0 +1,32 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112.3764047778961,
+            40.58324741807556,
+            0
+          ],
+          [
+            -112.3764051438239,
+            40.58306944303028,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Utah Motorsports Campus Start/Finish Line",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "22fec70a",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -75.07357526365216,
+            39.3608315178144,
+            0
+          ],
+          [
+            -75.07366960463405,
+            39.36071376163186,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "New Jersey Motorsports Park",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "22fec70a",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        }
+      }
+    }
+  ]
+}

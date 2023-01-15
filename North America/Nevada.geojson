@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.0127067666508,
+            36.27456953072065,
+            0
+          ],
+          [
+            -115.0125880950166,
+            36.27445147951243,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Last Vegas Motor Speedway Start/Finish Line",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "22fec70a",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.9121933504448,
+            36.17219882471831,
+            0
+          ],
+          [
+            -115.9121829745753,
+            36.17233719745148,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Spring Mountain Start/Finish Line",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "22fec70a",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        }
+      }
+    }
+  ]
+}

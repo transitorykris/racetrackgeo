@@ -1,0 +1,32 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.61983923891542,
+            33.53279907683663,
+            0
+          ],
+          [
+            -86.61959484107473,
+            33.53257238290475,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Barber Motorsports Park Start/Finish Line",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "22fec70a",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        }
+      }
+    }
+  ]
+}

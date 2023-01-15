@@ -1,0 +1,32 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.96909572878978,
+            39.23523074412202,
+            0
+          ],
+          [
+            -77.96898632568612,
+            39.23520170661137,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Summit Point Motorsports Park Start/Finish Line",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "22fec70a",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        }
+      }
+    }
+  ]
+}

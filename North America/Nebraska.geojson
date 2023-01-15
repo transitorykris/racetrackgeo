@@ -1,0 +1,32 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -98.35130981617466,
+            40.5801927844502,
+            0
+          ],
+          [
+            -98.35130795201225,
+            40.58008670247038,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Motorsports Park Hastings",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "22fec70a",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -81.07285456867669,
+            29.18771168410453,
+            0
+          ],
+          [
+            -81.07272517915308,
+            29.18762646202165,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Daytona International Speedway Start/Finish Line",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "22fec70a",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.30575414985155,
+            26.92069896372988,
+            0
+          ],
+          [
+            -80.30589734447724,
+            26.92071058574964,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Palm Beach International Raceway Start/Finish Line",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "22fec70a",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -81.35371900500985,
+            27.45031752634488,
+            0
+          ],
+          [
+            -81.35371797174133,
+            27.45013558172596,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Sebring International Raceway Start/Finish Line",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "22fec70a",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.40975977334975,
+            25.45378239495036,
+            0
+          ],
+          [
+            -80.40967216841027,
+            25.45363337864586,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Homestead-Miami Speedway Start/Finish Line",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "22fec70a",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.59031896198938,
+            36.22070783237267,
+            0
+          ],
+          [
+            -96.59053756408969,
+            36.22069776412916,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Hallett Motor Racing Circuit Start/Finish Line",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "22fec70a",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        }
+      }
+    }
+  ]
+}

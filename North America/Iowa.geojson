@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -95.82130362758058,
+            41.02458256986911,
+            0
+          ],
+          [
+            -95.82113404205894,
+            41.02458074185561,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Raceway Park of the Midlands Start/Finish Line",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "22fec70a",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -93.0149020013327,
+            41.67369112348428,
+            0
+          ],
+          [
+            -93.01467034257531,
+            41.67382509498476,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Iowa Speedway Start/Finish Line",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "22fec70a",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        }
+      }
+    }
+  ]
+}

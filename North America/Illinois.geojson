@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.12682449236299,
+            41.45527587498708,
+            0
+          ],
+          [
+            -88.12693454113206,
+            41.45514966655235,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Autobahn Country Club Start/Finish Line",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "22fec70a",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -90.13703585342621,
+            38.65043688793747,
+            0
+          ],
+          [
+            -90.1368003370986,
+            38.65049097039149,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Gateway Motorsports Park Start/Finish Line",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "22fec70a",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        }
+      }
+    }
+  ]
+}

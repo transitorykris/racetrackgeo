@@ -1,0 +1,32 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -90.19912715197361,
+            29.88534600676376,
+            0
+          ],
+          [
+            -90.19922000725208,
+            29.88545959720835,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "NOLA Motorsports Park",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "22fec70a",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        }
+      }
+    }
+  ]
+}

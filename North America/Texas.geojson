@@ -1,0 +1,113 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.28417613501867,
+            33.03728109223314,
+            0
+          ],
+          [
+            -97.28435866082836,
+            33.03732121038114,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Texas Motor Speedway Start/Finish Line",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "22fec70a",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.63978271658425,
+            30.13195040450768,
+            0
+          ],
+          [
+            -97.63990558025355,
+            30.13181766122332,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Circuit of the Americas Start/Finish Line",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "22fec70a",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -95.42240022143173,
+            29.27896160661253,
+            0
+          ],
+          [
+            -95.4223692501667,
+            29.27911470693893,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "MSR Houston Start/Finish Line",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "22fec70a",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.22452257887802,
+            30.5380249205761,
+            0
+          ],
+          [
+            -96.22428764716864,
+            30.53797877673421,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Texas World Speedway Start/Finish Line",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "22fec70a",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        }
+      }
+    }
+  ]
+}

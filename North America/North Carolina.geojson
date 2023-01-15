@@ -1,0 +1,32 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.6856951426865,
+            35.35226601800161,
+            0
+          ],
+          [
+            -80.68549003401573,
+            35.35222871307597,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Charlotte Motor Speedway Start/Finish Line",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "22fec70a",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        }
+      }
+    }
+  ]
+}

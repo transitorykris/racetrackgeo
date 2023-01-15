@@ -1,0 +1,32 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -107.4297055894649,
+            32.23681628718957,
+            0
+          ],
+          [
+            -107.4296408953957,
+            32.236906432936,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Arroyo Seco Raceway Start/Finish Line",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "22fec70a",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        }
+      }
+    }
+  ]
+}

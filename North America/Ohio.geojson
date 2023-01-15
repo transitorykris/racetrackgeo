@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.63527884179967,
+            40.68942052896514,
+            0
+          ],
+          [
+            -82.63526505351302,
+            40.68955597957963,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Mid-Ohio Sports Car Course Start/Finish Line",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "22fec70a",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -81.01418888168672,
+            41.30711776816927,
+            0
+          ],
+          [
+            -81.01407601735899,
+            41.30711944450997,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Nelson Ledges Race Course Start/Finish Line",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "22fec70a",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        }
+      }
+    }
+  ]
+}

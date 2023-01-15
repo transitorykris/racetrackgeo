@@ -1,0 +1,113 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.1405786795172,
+            42.40802744406466,
+            0
+          ],
+          [
+            -86.14041008578171,
+            42.40802743180441,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Gingerman Raceway Start/Finish Line",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "22fec70a",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -85.38522438923675,
+            43.09585242382716,
+            0
+          ],
+          [
+            -85.38526328979106,
+            43.09598599967787,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Grattan Raceway Start/Finish Line",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "22fec70a",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.39102646946176,
+            42.7085738638517,
+            0
+          ],
+          [
+            -83.39131209001184,
+            42.70855627760771,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Waterford Hills Road Racing Start/Finish Line",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "22fec70a",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -84.24489151595232,
+            42.06765399785621,
+            0
+          ],
+          [
+            -84.24461633003213,
+            42.06760725831608,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Michigan International Speedway Start/Finish Line",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "22fec70a",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        }
+      }
+    }
+  ]
+}

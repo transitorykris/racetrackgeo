@@ -1,0 +1,32 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -95.67679688386055,
+            38.92656295332782,
+            0
+          ],
+          [
+            -95.6764453800151,
+            38.9266052860137,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Heartland Park Topeka Start/Finish Line",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "22fec70a",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        }
+      }
+    }
+  ]
+}

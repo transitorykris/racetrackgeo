@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -81.32284410629038,
+            32.16700586443347,
+            0
+          ],
+          [
+            -81.32280752331393,
+            32.16712399027439,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Roebling Road Raceway Start/Finish Line",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "22fec70a",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.81419035721461,
+            34.15042603054754,
+            0
+          ],
+          [
+            -83.8142791887944,
+            34.15031551605728,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Road Atlanta Start/Finish Line",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "22fec70a",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        }
+      }
+    }
+  ]
+}

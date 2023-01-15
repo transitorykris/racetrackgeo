@@ -1,0 +1,135 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.4547803379185,
+            38.16147235052372,
+            0
+          ],
+          [
+            -122.4546713913684,
+            38.16157807239693,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Sonoma Raceway Start/Finish Line",
+        "styleUrl": "#runtime://clone6408#sn_ylw-pushpin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.7566919233404,
+            36.58649234965089,
+            0
+          ],
+          [
+            -121.7565892755876,
+            36.58643339993673,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Laguna Seca Raceway Start/Finish Line",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "22fec70a",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.3312875270192,
+            39.53847374140523,
+            0
+          ],
+          [
+            -122.331099529939,
+            39.538475019385,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Thunderhill Raceway East Start/Finish Line",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "22fec70a",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.3388483427541,
+            39.53744731778239,
+            0
+          ],
+          [
+            -122.3387183260016,
+            39.53745643785989,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Thunderhill Raceway West Start/Finish Line",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "22fec70a",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -119.5445142578919,
+            35.48883720604152,
+            0
+          ],
+          [
+            -119.5445119569092,
+            35.48871494953136,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Buttonwillow Raceway 13CCW Start/Finish Line",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "22fec70a",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        }
+      }
+    }
+  ]
+}

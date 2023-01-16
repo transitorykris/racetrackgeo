@@ -7,6 +7,33 @@
         "type": "LineString",
         "coordinates": [
           [
+            -80.5957074053051,
+            34.48675262120078,
+            0
+          ],
+          [
+            -80.59581568954422,
+            34.48668261635198,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Carolina Motorsports Park Start/Finish Line",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "22fec70a",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl0"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -80.6856951426865,
             35.35226601800161,
             0
@@ -20,10 +47,10 @@
       },
       "properties": {
         "name": "Charlotte Motor Speedway Start/Finish Line",
-        "styleUrl": "#m_ylw-pushpin",
-        "styleHash": "22fec70a",
+        "styleUrl": "#m_ylw-pushpin1",
+        "styleHash": "-5b4ed8d0",
         "styleMapHash": {
-          "normal": "#s_ylw-pushpin",
+          "normal": "#s_ylw-pushpin0",
           "highlight": "#s_ylw-pushpin_hl"
         }
       }

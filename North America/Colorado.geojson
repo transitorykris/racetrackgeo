@@ -7,6 +7,33 @@
         "type": "LineString",
         "coordinates": [
           [
+            -104.6772903982551,
+            38.29992239924443,
+            0
+          ],
+          [
+            -104.6775405204559,
+            38.29987524053664,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Pueblo Motorsports Park Start/Finish Line",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "22fec70a",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl0"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -104.6784421776732,
             38.59089513135707,
             0
@@ -20,10 +47,10 @@
       },
       "properties": {
         "name": "Pikes Peak International Raceway Start/Finish Line",
-        "styleUrl": "#m_ylw-pushpin",
-        "styleHash": "22fec70a",
+        "styleUrl": "#m_ylw-pushpin1",
+        "styleHash": "-5b4ed8d0",
         "styleMapHash": {
-          "normal": "#s_ylw-pushpin",
+          "normal": "#s_ylw-pushpin0",
           "highlight": "#s_ylw-pushpin_hl"
         }
       }
@@ -47,10 +74,10 @@
       },
       "properties": {
         "name": "High Plains Raceway Start/Finish Line",
-        "styleUrl": "#m_ylw-pushpin",
-        "styleHash": "22fec70a",
+        "styleUrl": "#m_ylw-pushpin1",
+        "styleHash": "-5b4ed8d0",
         "styleMapHash": {
-          "normal": "#s_ylw-pushpin",
+          "normal": "#s_ylw-pushpin0",
           "highlight": "#s_ylw-pushpin_hl"
         }
       }

@@ -1,0 +1,32 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -110.0057059944951,
+            32.22554457827459,
+            0
+          ],
+          [
+            -110.0056886219217,
+            32.22540510621355,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Inde Motorsports Ranch Start/Finish Line",
+        "styleUrl": "#m_ylw-pushpin",
+        "styleHash": "22fec70a",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin",
+          "highlight": "#s_ylw-pushpin_hl"
+        }
+      }
+    }
+  ]
+}

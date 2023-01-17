@@ -20,10 +20,10 @@
       },
       "properties": {
         "name": "Autobahn Country Club Start/Finish Line",
-        "styleUrl": "#m_ylw-pushpin",
-        "styleHash": "22fec70a",
+        "styleUrl": "#m_ylw-pushpin1",
+        "styleHash": "-5b4ed8d0",
         "styleMapHash": {
-          "normal": "#s_ylw-pushpin",
+          "normal": "#s_ylw-pushpin0",
           "highlight": "#s_ylw-pushpin_hl"
         }
       }
@@ -47,11 +47,38 @@
       },
       "properties": {
         "name": "Gateway Motorsports Park Start/Finish Line",
+        "styleUrl": "#m_ylw-pushpin1",
+        "styleHash": "-5b4ed8d0",
+        "styleMapHash": {
+          "normal": "#s_ylw-pushpin0",
+          "highlight": "#s_ylw-pushpin_hl"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.11736955405507,
+            42.48842855080086,
+            0
+          ],
+          [
+            -89.11765659181907,
+            42.48843597448196,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Blackhawk Farms Raceway Start/Finish Line",
         "styleUrl": "#m_ylw-pushpin",
         "styleHash": "22fec70a",
         "styleMapHash": {
           "normal": "#s_ylw-pushpin",
-          "highlight": "#s_ylw-pushpin_hl"
+          "highlight": "#s_ylw-pushpin_hl0"
         }
       }
     }
